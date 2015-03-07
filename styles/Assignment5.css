@@ -1,0 +1,41 @@
+section.section1 {
+    background-color: #FFFFCC;
+    visibility:hidden;
+    position: absolute ;
+    left: 0px;
+    top: 150px;
+    width: 600px;
+    z-index: -1;
+    overflow: scroll;
+    }
+
+section.section2 {
+    background-color:#DCDCDC;
+    visibility:hidden;
+    position: absolute ;
+    left: 0px;
+    top: 150px;
+    width: 600px;
+    z-index: -1;
+    overflow: scroll
+    }
+
+#city {
+    padding: 5pt; 
+    width: 150px;
+    height: 150px;
+    overflow: scroll;
+}
+
+#suburb {
+    padding: 5pt; 
+    width: 150px;
+    height: 150px;
+    overflow: scroll;  
+}
+
+footer {
+    text-align: justify;
+    position: absolute;
+    bottom: 0;
+}
